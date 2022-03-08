@@ -2,9 +2,9 @@
     "name": "chat2",
     "version": "1.0.0",
     "description": "WhatsApp Bot",
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
-        "start": "node ./server.js",
+        "start": "node ./index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     "dependencies": {
         "qrcode-terminal": "^0.12.0",

@@ -1,0 +1,16 @@
+{
+    "name": "chat2",
+    "version": "1.0.0",
+    "description": "WhatsApp Bot",
+    "main": "app.js",
+    "dependencies": {
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.16.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "npm start"
+    },
+    "author": "SEAD",
+    "license": "ISC"
+}

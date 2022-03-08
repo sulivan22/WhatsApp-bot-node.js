@@ -1,2 +1,3 @@
 # WhatsApp-bot-node.js
-# WhatsApp-bot-node.js
+
+Simple WhatsApp Bot

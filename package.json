@@ -1,24 +1,35 @@
 {
-    "name": "test-ws-bot",
+    "name": "chatbot",
     "version": "1.0.0",
-    "description": "",
+    "description": "Simple WhatsApp Bot",
     "main": "app.js",
     "scripts": {
-        "start": "node ./app.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "node ./app.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^11.0.0",
+        "exceljs": "^4.3.0",
+        "express": "^4.17.2",
+        "file-type": "^16.5.3",
+        "mime-db": "^1.51.0",
+        "moment": "^2.29.1",
+        "puppeteer": "^13.5.1",
+        "qr-image": "^3.2.0",
         "qrcode-terminal": "^0.12.0",
-        "whatsapp-web.js": "^1.16.1"
+        "socket.io": "^4.4.1",
+        "uuid": "^8.3.2",
+        "whatsapp-web.js": "^1.16.5",
+        "xlsx": "^0.18.3"
     },
     "devDependencies": {
         "pm2": "^5.1.2",
         "prettier": "2.5.1"
     },
     "engines": {
-        "node": "14.x"
+        "node": "16"
     }
 }

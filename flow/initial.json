@@ -1,0 +1,77 @@
+[{
+        "keywords": [
+            "bot",
+            "🤖",
+            "robot"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords": [
+            "si"
+
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords": [
+            "redes"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords": [
+            "pelicula",
+            "peli"
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords": [
+            "mascota"
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords": [
+            "familia"
+        ],
+        "key": "STEP_2_4"
+    },
+    {
+        "keywords": [
+            "trabajo"
+        ],
+        "key": "STEP_2_5"
+    },
+    {
+        "keywords": [
+            "no"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords": [
+            "twitter"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords": [
+            "instagram"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords": [
+            "telegram"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords": [
+            "facebook"
+        ],
+        "key": "STEP_8"
+    }
+]

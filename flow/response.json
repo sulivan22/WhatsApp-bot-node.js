@@ -1,0 +1,133 @@
+{
+    "DEFAULT": {
+        "replyMessage": [
+            "*Esta respuesta es un respuesta default* cuando no se consigue una palabra clave \n\n",
+            "Prueba escribiendo *bot* \n"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_0": {
+        "replyMessage": [
+            "Esta prueba de SuliBot ha termninado 🤖, espero que te haya gustado \n",
+            "Saludos \n"
+
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_1": {
+        "replyMessage": [
+            "Hola! ✌️ Soy SuliBot 🤖, quieres probar como funciono? 😎\n",
+            "\n Probemos cositas!!  ",
+            "\n ",
+            "Respode, Si o No \n"
+
+        ],
+
+        "media": null,
+        "trigger": null
+    },
+    "STEP_2": {
+        "replyMessage": [
+            "Perfecto!!, que quieres saber? \n\n",
+            "*Redes* Sociales.\n",
+            "*Pelicula* favorita\n",
+            "*Mascota* \n",
+            "*Familia* \n",
+            "*Trabajo* \n\n",
+            "Escribe la palabra del tema que te interese \n"
+        ],
+        "media": "yo.png",
+        "trigger": null
+    },
+    "STEP_2_1": {
+        "replyMessage": [
+            " 😎😎😎 \n"
+        ],
+        "media": null,
+        "trigger": null,
+        "actions": {
+            "title": null,
+            "message": "Te dejo aqui mis redes!!",
+            "footer": null,
+            "buttons": [
+                { "body": "Instagram" },
+                { "body": "Facebook" },
+                { "body": "Twitter" },
+                { "body": "Telegram" }
+            ]
+        }
+    },
+    "STEP_2_2": {
+        "replyMessage": [
+            "Esta es mi Peli favorita!!!! \n\n"
+        ],
+        "media": "bttf.png",
+        "trigger": null
+    },
+    "STEP_2_3": {
+        "replyMessage": [
+            "Mi mascota es DOC 🐶 \n\n",
+            "aquí puedes ver su perfil de Instagram\n\n",
+            "https://instagram.com/maltes.doc"
+
+        ],
+        "media": "doc.png",
+        "trigger": "https://instagram.com/maltes.doc"
+    },
+    "STEP_2_4": {
+        "replyMessage": [
+            "Te presento a mi familia. ❤️❤️ \n"
+        ],
+        "media": "familia.png",
+        "trigger": null
+    },
+
+    "STEP_2_5": {
+        "replyMessage": [
+            "Te dejo mi perfil de Linkedin \n",
+            "https://www.linkedin.com/in/antonety/"
+        ],
+        "media": "nerd.png",
+        "trigger": null
+    },
+
+    "STEP_3": {
+        "replyMessage": [
+            "De acuerdo Gracias! \n"
+        ],
+        "media": "yo.png",
+        "trigger": null
+    },
+    "STEP_5": {
+        "replyMessage": [
+            "Muy bien, mira mi perfil de Twitter. \n",
+            "https://twitter.com/sulivan_22 \n"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_6": {
+        "replyMessage": [
+            "Aqui tienes mi perfil de Instagram. \n",
+            "https://www.instagram.com/sulivan22/ \n"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_7": {
+        "replyMessage": [
+            "https://t.me/sulivan_22 \n"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_8": {
+        "replyMessage": [
+            "https://facebook.com/sulivan22 \n"
+        ],
+        "media": null,
+        "trigger": null
+    }
+}
